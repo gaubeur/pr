@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/19 12:19:27.000.281,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 12:19:50.000.048,C:\projetos\PR\PR.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/19 12:23:27.000.119,=C:\projetos\PR\Model\Entidade\Model.Entidade.Cliente.pas</Transaction>
+    <Transaction>2022/08/19 17:43:30.000.538,=C:\projetos\PR\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 17:45:51.000.707,C:\projetos\PR\Model\Entidade\Model.Entidade.Cliente.pas=</Transaction>
+    <Transaction>2022/08/19 17:54:55.000.998,C:\projetos\PR\Unit1.pas=C:\projetos\PR\Model\Entidade\Model.Entidade.Cliente.pas</Transaction>
+    <Transaction>2022/08/19 18:17:53.000.135,=C:\projetos\PR\Model\Conexao\Model.Conexao.SqlServer.pas</Transaction>
+    <Transaction>2022/08/19 19:09:36.000.075,=C:\projetos\PR\Model\Dao\Model.DAO.Interfaces.pas</Transaction>
+    <Transaction>2022/08/19 19:31:01.000.019,=C:\projetos\PR\Model\Dao\Model.DAO.Clientes.pas</Transaction>
+    <Transaction>2022/08/19 19:53:20.000.167,=C:\projetos\PR\Model\Conexao\Model.Conexao.Interfaces.pas</Transaction>
+    <Transaction>2022/08/19 19:55:18.000.426,=C:\projetos\PR\Model\Conexao\Model.Conexao.pas</Transaction>
+    <Transaction>2022/08/19 20:24:20.000.522,=C:\projetos\PR\View\View.Cliente.pas</Transaction>
+    <Transaction>2022/08/20 00:50:21.000.469,=C:\projetos\PR\Controller\Controller.Interfaces.pas</Transaction>
+    <Transaction>2022/08/20 00:54:05.000.781,=C:\projetos\PR\Controller\Controller.Entidades.pas</Transaction>
+    <Transaction>2022/08/20 01:00:20.000.925,=C:\projetos\PR\Controller\Controller.Controller.pas</Transaction>
+    <Transaction>2022/08/20 01:03:39.000.068,=C:\projetos\PR\Unit1.pas</Transaction>
+    <Transaction>2022/08/20 17:50:45.000.364,=C:\projetos\PR\Model\Conexao\Model.Conexao.Zeos.pas</Transaction>
+    <Transaction>2022/08/21 17:51:18.000.656,C:\projetos\PR\Model\Entidade\Model.Entidade.Endereco.pas=C:\projetos\PR\Model\Entidade\Model.Entidade.Cliente.pas</Transaction>
+    <Transaction>2022/08/21 17:51:37.000.212,=C:\projetos\PR\Model\Entidade\Model.Entidade.Cliente.pas</Transaction>
+    <Transaction>2022/08/21 18:07:43.000.138,C:\projetos\PR\Model\Dao\Model.DAO.Enderecos.pas=C:\projetos\PR\Model\Dao\Model.DAO.Clientes.pas</Transaction>
+    <Transaction>2022/08/21 18:07:51.000.615,=C:\projetos\PR\Model\Dao\Model.DAO.Clientes.pas</Transaction>
+    <Transaction>2022/08/21 18:10:09.000.970,C:\projetos\PR\Model\Entidade\Model.Entidade.Enderecos.pas=C:\projetos\PR\Model\Entidade\Model.Entidade.Endereco.pas</Transaction>
+    <Transaction>2022/08/21 18:10:22.000.845,C:\projetos\PR\Model\Entidade\Model.Entidade.Enderecos.pas=</Transaction>
+    <Transaction>2022/08/21 18:10:32.000.409,=C:\projetos\PR\Model\Entidade\Model.Entidade.Enderecos.pas</Transaction>
+    <Transaction>2022/08/21 18:14:54.000.041,C:\projetos\PR\Model\Entidade\Model.Entidade.Clientes.pas=C:\projetos\PR\Model\Entidade\Model.Entidade.Cliente.pas</Transaction>
+    <Transaction>2022/08/21 18:17:53.000.909,=C:\projetos\PR\Model\Entidade\Model.Entidade.Clientes.pas</Transaction>
+    <Transaction>2022/08/21 18:19:16.000.058,=C:\projetos\PR\Model\Entidade\Model.Entidade.Enderecos.pas</Transaction>
+    <Transaction>2022/08/21 18:19:38.000.679,=C:\projetos\PR\Model\Entidade\Model.Entidade.Clientes.pas</Transaction>
+    <Transaction>2022/08/21 19:22:19.000.768,=C:\projetos\PR\Unit1.pas</Transaction>
+    <Transaction>2022/08/21 19:22:44.000.763,C:\projetos\PR\Unit1.pas=C:\projetos\PR\Model\Servico\Model.Servico.Cep.pas</Transaction>
+    <Transaction>2022/08/21 23:25:27.000.653,C:\projetos\PR\Controller\Controller.Servicos.pas=C:\projetos\PR\Controller\Controller.Entidades.pas</Transaction>
+    <Transaction>2022/08/21 23:26:07.000.075,=C:\projetos\PR\Controller\Controller.Entidades.pas</Transaction>
+    <Transaction>2022/08/22 00:23:02.000.093,C:\projetos\PR\Model\Dao\Model.DAO.Interfaces.pas=C:\projetos\PR\Model\Servico\Model.Servico.Interfaces.pas</Transaction>
+    <Transaction>2022/08/22 00:23:12.000.160,=C:\projetos\PR\Model\Dao\Model.DAO.Interfaces.pas</Transaction>
+    <Transaction>2022/08/22 00:40:48.000.878,C:\projetos\PR\Model\Servico\Model.Servico.Interfaces.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
